@@ -1,0 +1,26 @@
+{
+  "name": "super-react-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "super-react-cli": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/super-hu/superReact-cli.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/super-hu/superReact-cli/issues"
+  },
+  "homepage": "https://github.com/super-hu/superReact-cli#readme",
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "commander": "^6.1.0"
+  }
+}
