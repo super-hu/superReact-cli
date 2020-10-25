@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 const program = require('commander');
 var process1 = require('child_process');
 //version 版本号
